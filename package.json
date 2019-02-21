@@ -2,7 +2,9 @@
   "name": "myreads-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://icmoore1.github.io/MyReads-Book-Project",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
